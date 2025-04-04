@@ -1,4 +1,4 @@
-
+my_qa_journey/ ├── bug-reports/ │ └── bug_login_message.md ├── docs/ │ └── a ├── experience/ │ ├── 2021_credit_rating_system │ ├── 2022_customer_platform.md │ ├── 2023_internal_systmem │ ├── 2025_toss_qa_practice.md │ └── experience/ │ └── 2023_internal_system.md ├── learning/ │ ├── a │ └── b ├── sql-checks/ │ ├── a │ ├── b │ └── c ├── test-cases/ │ └── login_test_case.md └── README.md
 
 # 나의 QA 지원기
 
