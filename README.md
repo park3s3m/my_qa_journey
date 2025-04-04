@@ -1,5 +1,4 @@
-# Run this in your local repository (Linux/Mac/Git Bash)
-tree -I "node_modules|.git" > file-structure.txt
+## 📁 Repository Structure
 
 
 
