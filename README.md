@@ -1,5 +1,3 @@
-## 📁 Repository Structure
-
 
 
 # 나의 QA 지원기
