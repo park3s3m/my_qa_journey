@@ -1,3 +1,8 @@
+# Run this in your local repository (Linux/Mac/Git Bash)
+tree -I "node_modules|.git" > file-structure.txt
+
+
+
 # 나의 QA 지원기
 
 ## 주요 과거 경험
