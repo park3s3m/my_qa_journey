@@ -21,4 +21,11 @@
 - `/planning` : Toss 관련 QA 계획서
 - `/docs` : 느낀 점, 회고 등
 
+## 📜 Certificates
+
+| Course | Institution | Date | Link |
+|--------|-------------|------|------|
+| Foundations of Software Testing and Validation | University of Leeds (Coursera) | Apr 10, 2025 | [View Certificate](https://coursera.org/verify/YCW09EYKW2GH) |
+| API Testing via Postman | Coursera Project Network | Apr 13, 2025 | [View Certificate](https://coursera.org/verify/L6X4XMXSEH53) |
+| Mobile App Testing with Appium | *(In progress)* | Est. Apr 18, 2025 | — |
 
