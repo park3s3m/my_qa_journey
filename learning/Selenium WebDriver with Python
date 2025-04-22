@@ -1,7 +1,7 @@
 # Selenium WebDriver with Python
 
 ## 학습 목표
-Python을 기반으로 Selenium WebDriver를 사용하여 웹 애플리케이션을 자동화 테스트하는 실습
+Python을 기반으로 Selenium WebDriver를 사용하여 웹 애플리케이션을 자동화 테스트
 
 ## 개요
 - Selenium 소개, WebDriver 환경 설정 (Python & pip 포함)
