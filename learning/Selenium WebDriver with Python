@@ -1,0 +1,18 @@
+# Selenium WebDriver with Python
+
+## 학습 목표
+Python을 기반으로 Selenium WebDriver를 사용하여 웹 애플리케이션을 자동화 테스트하는 실습
+
+## 개요
+- Selenium 소개, WebDriver 환경 설정 (Python & pip 포함)
+- 웹 요소 탐색 및 상호작용
+- 드롭다운, 알림창, 탭/프레임, 파일 업로드/다운로드, 마우스 및 키보드 제어
+- Test Framework 활용 (unittest, pytest)
+- 디버깅 및 크로스 브라우저 테스트
+- Page Object Model(POM) 구조 이해 및 구현
+- 베스트 프랙티스
+
+## 느낀 점
+- (아직 Java에 덜 익숙해서 그런지, 문법 차이인지) 확실히 Python 기반 Selenium이 Java보다 이해하기 빠름
+- 다양한 UI 요소를 직접 제어해보니 조금 뭔가 배워가는 느낌이 듬
+- 자동화의 새로운 세상이 신기하고 더 기대됨
